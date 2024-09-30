@@ -29,7 +29,7 @@ Portions copyright (c) Microsoft Corporation, licensed [under the MIT license](h
 2. Install Ansible:
 
    ```shell
-   $ sudo apt -y install ansible
+   $ sudo apt -y install ansibleb
    ```
 
 3. If you want to clone this Git repo, you should also install Git (`sudo apt -y install git`). These scripts will install it for you if you brought these files along in some other way.
